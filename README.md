@@ -7,7 +7,7 @@ This project demonstrates the agility and ease with which React can generate dyn
 <img src='./Image-Search-React.png'/>
 <br>
 
-To see in action, clone the project -- quickly set up an API key at (Unsplash)[https://unsplash.com/oauth/applications].<br><br>
+To see in action, clone the project -- quickly set up an API key at [https://unsplash.com/oauth/applications](Unsplash).<br><br>
 
 Test out in two simple steps:<br>
 1.) Run `npm install` to load all the project's npm module dependencies <br>
