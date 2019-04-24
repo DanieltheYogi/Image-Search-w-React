@@ -3,7 +3,7 @@
 This application retrieves image results and displays them in a flex grid on the screen. <br><br>
 This project demonstrates the agility and ease with which React can generate dynamic flex user interfaces, as well as easily do API network calls ( in this case leveraging the Unsplash image search API ).<br><br><br>
 
-# Screenshot:
+### Screenshot:
 <img src='./Image-Search-React.png'/>
 <br>
 
